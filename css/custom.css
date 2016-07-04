@@ -238,3 +238,10 @@ header .row { z-index: 2; position: relative; }
 .new-row-footer {
   max-width: 90%;
 }
+
+/* Gallery tuning */
+
+.img-gallery {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

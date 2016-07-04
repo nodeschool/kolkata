@@ -8,7 +8,7 @@ NodeSchool chapter for Kolkata, West Bengal, India
 
 ## Upcoming Events
 
-* Inaugural Meetup in July 1st Week (Tentative). Join our [Gitter](https://gitter.im/nodeschool/kolkata) channel to discuss and plan.
+* Inaugural Meetup on July 16th, 2016, Saturday. Join our [Gitter](https://gitter.im/nodeschool/kolkata) channel to discuss and plan.
 
 ## Past Events
 

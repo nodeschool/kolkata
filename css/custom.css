@@ -12,6 +12,7 @@ body {
   border: 6px solid black;
 }
 
+
 .features-item:hover .features-circle {
   background-color: #F30083;
   border-color: black;
@@ -92,7 +93,7 @@ header .row { z-index: 2; position: relative; }
 
 .site-header {
   background-position: bottom center;
-  background-image: url("../img/kolkata2.jpg");
+  background-image: url("../img/nodejs-2560x1440.png");
 }
 
 .subheadline {

@@ -1,14 +1,15 @@
 # Kolkata
 NodeSchool chapter for Kolkata, West Bengal, India
 
-* Organizers: [@koustuvsinha](https://github.com/koustuvsinha) and [Kolkata Team](https://github.com/orgs/nodeschool/teams/kolkata)
+* Organizer: [@codetanmoy](https://github.com/codetanmoy)
+* Past Organizers: [@koustuvsinha](https://github.com/koustuvsinha) and [Kolkata Team](https://github.com/orgs/nodeschool/teams/kolkata)
 * Gitter : [Nodeschool/Kolkata](https://gitter.im/nodeschool/kolkata)
 * Twitter : [@nodeschoolkol](https://twitter.com/nodeschoolkol)
 * Facebook : [@nodeschoolkol](https://www.facebook.com/nodeschoolkol/)
 
 ## Upcoming Events
 
-* Inaugural Meetup in July 1st Week (Tentative). Join our [Gitter](https://gitter.im/nodeschool/kolkata) channel to discuss and plan.
+
 
 ## Past Events
 
